@@ -1,4 +1,4 @@
-// property Lbael
+// property Label
 // 
 //
 // IDECodeSnippetCompletionPrefix: plabel
