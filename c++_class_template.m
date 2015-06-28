@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: templateclass
 // IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: 8F270BF8-4707-48FC-B9D8-45E25E692DE1
+// IDECodeSnippetIdentifier: B8EB4C05-D611-4713-971D-C27FAD90E79C
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 template <<#template parameters#>>
 class <#class name#> {
   <#instance variables#>
